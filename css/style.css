@@ -9,7 +9,6 @@ body {
 	padding: 0px;
 }
 
-
 /* Menu De Navegação */
 header {
 	display: block;
@@ -70,6 +69,14 @@ header {
 		transform: translate(0);
   		box-shadow: none;
 }
+
+/* Menu De Navegação ID's */
+#Sobre {	
+	color: #4b53bc;
+	font-weight: 500;
+}
+
+#Sobre:hover { color: #fff; }
 
 /* Scroll Bar */
 body::-webkit-scrollbar {
@@ -190,3 +197,4 @@ footer h3 {
 		transform: translate(0);
   		box-shadow: 1px;
 }
+
