@@ -12,7 +12,7 @@ body {
 /* Menu De Navegação */
 header {
 	display: block;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 .MenuNavegacao {
@@ -152,6 +152,7 @@ footer h3 {
 
 .Rodape ul a {
 	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
 	color: #ffffff;
 	display: flex;
 	float: left;
