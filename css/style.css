@@ -74,10 +74,15 @@ header {
 /* Menu De Navegação ID's */
 #Sobre {	
 	color: #4b53bc;
-	font-weight: 500;
-}
+	font-weight: 500; }
 
 #Sobre:hover { color: #fff; }
+
+#Artigos {	
+	color: #4b53bc;
+	font-weight: 500; }
+
+#Artigos:hover { color: #fff; }
 
 /* Scroll Bar */
 body::-webkit-scrollbar {
