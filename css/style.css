@@ -72,17 +72,20 @@ header {
 }
 
 /* Menu De Navegação ID's */
-#Sobre {	
-	color: #4b53bc;
-	font-weight: 500; }
+#Btn-Artigos { color: #4b53bc; font-weight: 500; }
+#Btn-Artigos:hover { color: #fff; }
 
-#Sobre:hover { color: #fff; }
+#Btn-Dicas { color: #4b53bc; font-weight: 500; }
+#Btn-Dicas:hover { color: #fff; }
 
-#Artigos {	
-	color: #4b53bc;
-	font-weight: 500; }
+#Btn-Ferramentas { color: #4b53bc; font-weight: 500; }
+#Btn-Ferramentas:hover { color: #fff; }
 
-#Artigos:hover { color: #fff; }
+#Btn-Tutoriais { color: #4b53bc; font-weight: 500; }
+#Btn-Tutoriais:hover { color: #fff; }
+
+#Btn-Sobre { color: #4b53bc; font-weight: 500; }
+#Btn-Sobre:hover { color: #fff; }
 
 /* Scroll Bar */
 body::-webkit-scrollbar {
