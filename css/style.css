@@ -109,57 +109,6 @@ body::-webkit-scrollbar-thumb:hover {
 	background-color: #7b83eb;
 }
 
-/* Carrossel */
-.Slider {
-	margin: 6% auto auto auto;
-  width: 80%;
-  height: 50%;
-  overflow: hidden;
-}
-
-.Slides {
-  width: 80%;
-  height: 50%;
-  display: flex;
-}
-
-.Slides input {
-  display: none;
-}
-
-.Slide {
-  width: 25%;
-  position: relative;
-}
-
-.Slide img {
-  width: 80%;
-}
-
-.Manual-Navigation {
-  position: absolute;
-  width: 80%;
-  margin-top: 10%;
-  display: flex;
-  justify-content: center;
-}
-
-.Btn-Manual {
-  border-radius: 10px;
-  border: 2px solid #fff;
-  padding: 5px;
-  cursor: pointer;
-  transition: 1s;
-}
-
-.Btn-Manual:not(:last-child) {
-  margin-right: 25px;
-}
-
-.Btn-Manual:hover {
-  background-color: #fff;
-}
-
 /* Footer */
 footer {
 	width: 100%;
