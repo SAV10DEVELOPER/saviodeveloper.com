@@ -211,3 +211,10 @@ footer h3 {
   		box-shadow: 1px;
 }
 
+/* Footer Estilização Navegação ID's */
+#Btn-Foo-Artigos { color: #4b53bc; font-weight: 600; }
+#Btn-Foo-Dicas { color: #4b53bc; font-weight: 600; }
+#Btn-Foo-Ferramentas { color: #4b53bc; font-weight: 600; }
+#Btn-Foo-Tutoriais { color: #4b53bc; font-weight: 600; }
+#Btn-Foo-Sobre { color: #4b53bc; font-weight: 600; }
+
