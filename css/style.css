@@ -108,6 +108,15 @@ body::-webkit-scrollbar-thumb:hover {
 	background-color: #7b83eb;
 }
 
+/* Barra de Progresso Horizontal */
+#BarraProgressoHorizontal {
+	background-color: #262626;
+	height: 7px;
+	width: 0%;
+	top: 0%;
+	position: fixed;
+}
+
 /* Footer */
 .Rodape {
 	width: auto;
