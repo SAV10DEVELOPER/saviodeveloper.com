@@ -109,7 +109,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 /* Barra de Progresso Horizontal */
-#BarraProgressoHorizontal {
+div#BarraProgressoHorizontal {
 	background-color: #262626;
 	height: 7px;
 	width: 0%;
