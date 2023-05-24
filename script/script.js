@@ -6,3 +6,16 @@ window.onscroll = function() {
 
     document.getElementById("BarraProgressoHorizontal").style.width = scroll + "%"
 }  
+
+const scrollTop = document.getElementById('ScrollTop')
+
+window.onload = () => { 
+    scrollTop.style.visibility = 'hidden'
+    scrollTop.style.opacity = 0
+}
+
+window.onscroll = () => {
+    if (window.scrollY > 200) {
+        
+    }
+}
