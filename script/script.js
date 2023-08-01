@@ -25,3 +25,13 @@ window.onscroll = function () {
     const scrollTop = document.getElementById("ScrollTop")
     scrollTop.style.visibility = "hidden"
     scrollTop.style.opacity = 0 })
+
+// Slide mid page
+  var splide = new Splide( '.splide', {
+      type   : 'loop',
+      drag   : 'free',
+      perPage: 5,
+      focus  : 'center',
+  } );
+    
+splide.mount();

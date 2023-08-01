@@ -137,6 +137,27 @@ div#ScrollTop {
 	color: #ffffff
 }
 
+/* Slide Conteudo */
+.slideConteudo {
+	height: 45vh;
+	width: 100%;
+	background-color: #1d1d1d;
+	justify-content: space-around;
+	display: flex;
+}
+
+.splide { width: 85%; }
+
+section .image__box img {
+	margin-top: 3vh;	
+	height: 39vh;
+	width: 16vw;
+}
+
+.splide__track {
+	width: 100%;
+}
+
 /* Footer */
 .Rodape {
 	width: auto;
